@@ -6,5 +6,6 @@
 - [AI Docs (Chinese 中文)](https://aigc.latentcat.com)
 - [Hugging Face](https://huggingface.co/ioclab)
 - [Civitai](https://civitai.com/user/LatentCat)
+- [YouTube](https://www.youtube.com/channel/UCJ5coKDjw7Z0rrMSDajRESA)
 
 contact@latentcat.com

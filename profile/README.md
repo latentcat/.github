@@ -7,5 +7,6 @@
 - [Hugging Face](https://huggingface.co/ioclab)
 - [Civitai](https://civitai.com/user/LatentCat)
 - [YouTube](https://www.youtube.com/channel/UCJ5coKDjw7Z0rrMSDajRESA)
+- [Bilibili (Chinese 中文)](https://space.bilibili.com/3546638018676750/)
 
 contact@latentcat.com

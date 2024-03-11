@@ -16,3 +16,18 @@
     <a href="mailto://contact@latentcat.com">Contact</a>
   </samp>
 </p>
+
+<h3 align="center">
+  Team
+</h3>
+
+<p align="center">
+  <samp>
+    <a href="https://github.com/ciaochaos">@ciaochaos</a> .
+    <a href="https://github.com/CPunisher">@CPunisher</a> .
+    <a href="https://github.com/chenbaiyujason">@chenbaiyujason</a> .
+    <a href="https://github.com/Zhaohan-Wang">@Zhaohan-Wang</a> .
+    <a href="https://github.com/SuiyuanV">@SuiyuanV</a> .
+    <a href="https://github.com/LIUXIN52534">@LIUXIN52534</a>
+  </samp>
+</p>
